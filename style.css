@@ -1,0 +1,38 @@
+body{
+    height: 100%;
+    background-size: cover;
+    background-image: url(RADHE\ RADHE.jpg);
+}
+form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    align-items: center;
+}   
+input
+{
+    border-radius: 7px;
+}
+table{
+    box-shadow: 5px 4px 5px 4px;
+    background-color: aliceblue;
+    opacity: 0.85;
+    border: 3px solid black;
+    border-radius: 22px;
+    /* background-image: url(checked_pattern.jpg); */
+    background-size: cover;
+    border-style: outset;
+}
+#sub{
+    background-color: rgb(177, 48, 177);
+    border-radius: 55px;
+    height: 5vh;
+    width: 50vh;
+}
+#title
+{
+    color: rgb(255, 255, 255);
+    opacity: 0.9;
+    font-size: 25px;
+}
