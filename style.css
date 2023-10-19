@@ -1,7 +1,8 @@
 body{
-    height: 100%;
+    background-attachment: fixed;
     background-size: cover;
-    background-image: url(RADHE\ RADHE.jpg);
+    background-image: url(color_pattern.jpg);
+    font-style: oblique;
 }
 form{
     display: flex;
@@ -15,7 +16,7 @@ input
     border-radius: 7px;
 }
 table{
-    box-shadow: 5px 4px 5px 4px;
+    box-shadow: 5px px 5px 4px;
     background-color: aliceblue;
     opacity: 0.85;
     border: 3px solid black;
